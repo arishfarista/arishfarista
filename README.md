@@ -7,7 +7,7 @@ Having navigated the evolution of the modern web platform, my expertise spans co
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arish-farista) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Real--Time%20UI-black?style=flat&logo=firefox&logoColor=%23FF7139)](https://linkedin.com/in/arish-farista)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Real--Time%20UI-black?style=flat&logo=firefox&logoColor=%23FF7139)](https://arishfarista.github.io/)
 
 ---
 
